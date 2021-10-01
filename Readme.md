@@ -42,9 +42,12 @@ If you want to contact me, you can reach me through below Social handles.
 
 © 2021 Shivam Garg
 
-
+<p align="center" width="100%">
+ 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
+   
+</p>
 
 <a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://sloc.xyz/github/The-Shivam-garg/MP-PersonalPortfolio" alt="LOC" /></a>
 <a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://img.shields.io/github/stars/The-Shivam-garg/MP-PersonalPortfolio" alt="Stars Badge" /></a>
