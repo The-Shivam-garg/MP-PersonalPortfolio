@@ -7,8 +7,8 @@
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<h2> Website:Comming Soon After final touch 
-<a href="" target="_blank">Visit Now🚀</a>
+<h2> Website:Comming Soon After final touch <BR>
+<a href="" target="_blank">Visit 🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
