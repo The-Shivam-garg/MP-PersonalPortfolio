@@ -24,8 +24,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome, JSON, etc.
 
 ## 🚩 Front LOOk of Main Page:
-![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/image/portfolio.png)
-![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/94498338de779cd693065dfb01b8ca1daab1eeef/image/portfolio.png)
+
+![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/17c2babda068fc2a78e63db1743247085c1d6104/image/portfolio.png)
 
 
 
