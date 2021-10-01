@@ -21,14 +21,13 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌 Sneak Peek of Main Page:
 ![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/94498338de779cd693065dfb01b8ca1daab1eeef/image/portfolio.png)
-![mockup720](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/94498338de779cd693065dfb01b8ca1daab1eeef/image/portfolio.png)
 <a href="#"><img width="100%" height="auto" src="portfolio.png" height="175px"/></a>
 
 
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you want to contact me, you can reach me through below Social handles.
 
 <div align="center">
 
