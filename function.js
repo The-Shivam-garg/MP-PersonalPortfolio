@@ -13,5 +13,8 @@ $(document).ready(function(){
         }else{
             $(".header").removeClass("stidky");
         }
+
    }); 
+   
    });
+
