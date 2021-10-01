@@ -39,4 +39,4 @@ If you want to contact me, you can reach me through below handles.
 © 2021 Shivam Garg
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
