@@ -26,7 +26,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 ## 🚩 Front LOOk of Main Page:
 ![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/image/portfolio.png)
 ![Front View](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/94498338de779cd693065dfb01b8ca1daab1eeef/image/portfolio.png)
-<a href="#"><img width="100%" height="auto" src="portfolio.png" height="175px"/></a>
+
 
 
 
